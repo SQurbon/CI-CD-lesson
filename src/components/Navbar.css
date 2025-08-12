@@ -42,7 +42,10 @@ button{
         display: grid !important;
         margin-top: 50px;
         margin-bottom: 50px;
-
+    }
+    ul li a {
+        border: 1px solid black;
+        padding: 0px 30px;
     }
     button{
         width: 320px;
